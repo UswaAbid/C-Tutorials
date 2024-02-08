@@ -1,0 +1,1 @@
+Welcome to "C Programs Starter Pack" - your gateway to the coding world! Explore a core collection of easy-to-understand C programs, perfect for beginners. From basic "Hello, World!" to essential algorithms, kickstart your coding journey with simple and powerful code snippets. Let's journey into this adventure hand in hand!🌟🚀💻
